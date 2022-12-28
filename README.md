@@ -69,4 +69,4 @@ This project was created by a lot of affection and dedication! Despite this, it 
 Please know that if you find any issues with the project or have any suggestions for improvement, feel free to make a [pull request](https://github.com/ImVitovskyy/YoutubeDownloader/pulls)!
 
 ## Authors
-* **Vitovskyy** - *Software developer and ethical hacker * - [Vitovskyy](https://github.com/ImVitovskyy/)
+* **[Vitovskyy](https://github.com/ImVitovskyy/)** - *Software developer and ethical hacker *
