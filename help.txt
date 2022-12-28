@@ -1,0 +1,7 @@
+Welcome to YoutubeDownloader!
+
+This project is designed for educational purposes only. It allows you to download videos, music, and playlists from Youtube without ads and in a transparent manner, as demonstrated in our open-source Github repository (https://github.com/ImVitovskyy/YoutubeDownloader). The objective is simply to study the Python language and some of its tools.
+
+Please note that the downloaded content may be protected by copyright and it is important to respect the rights of content creators and the terms of service of the platform. Using the downloaded content for commercialization, advertising, or any other illegal distribution is strictly prohibited. I am not responsible for any legal actions you may face as a result of violating these terms.
+
+To use the service, run "python main.py" and follow the instructions provided. Feel free to study the code, ask questions, and suggest changes on Github, as long as you adhere to the project license. Remember, this project is for educational purposes only.
